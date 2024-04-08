@@ -1,0 +1,94 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "title": "Woofing those bugs away",
+      "likes": 5,
+      "image": "./assets/coder-dog.png",
+      "imageId": 1,
+      "content": "the wooolf"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "imageId": 1,
+      "content": "What a cute dog!"
+    },
+    {
+      "id": "2",
+      "imageId": 1,
+      "content": "He's got a nose for bugs!"
+    },
+    {
+      "id": "3",
+      "imageId": 1,
+      "content": "Woof!"
+    },
+    {
+      "id": "d896",
+      "imageId": 1,
+      "content": "Woo its so amaizing"
+    },
+    {
+      "id": "0f6a",
+      "imageId": 1,
+      "content": ""
+    },
+    {
+      "id": "3d9e",
+      "imageId": 1,
+      "content": "Woo its so amaizing"
+    },
+    {
+      "id": "9b62",
+      "imageId": 1,
+      "content": "hey"
+    },
+    {
+      "id": "dcb5",
+      "imageId": 1,
+      "content": ""
+    },
+    {
+      "id": "284b",
+      "imageId": 1,
+      "content": "Hello"
+    },
+    {
+      "id": "9af1",
+      "imageId": 1,
+      "content": ""
+    },
+    {
+      "id": "1b89",
+      "imageId": 1,
+      "content": "dbnm,"
+    },
+    {
+      "id": "90d6",
+      "imageId": 1,
+      "content": ""
+    },
+    {
+      "id": "adc8",
+      "imageId": 1,
+      "content": "hey"
+    },
+    {
+      "id": "cd9f",
+      "imageId": 1,
+      "content": ""
+    },
+    {
+      "id": "3924",
+      "imageId": 1,
+      "content": "Woo its so amaizing"
+    },
+    {
+      "id": "539d",
+      "imageId": 1,
+      "content": ""
+    }
+  ]
+}
